@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Soleil\Desktop\FPGA project\Sun\VGA2\vga2.ncd
+OUTFILE=C:\Users\Soleil\Desktop\FPGA project\Sun\VGA2\vga2.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Users\Soleil\Desktop\FPGA project\Sun\VGA2
+LICENSE=WebPack
+USER_INFO=0_0_511

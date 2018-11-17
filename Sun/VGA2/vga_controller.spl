@@ -1,0 +1,13 @@
+[Inputs]
+rst
+pixel_clk
+[Outputs]
+hs
+vs
+vblank
+=hcount[10:0]=
+=vcount[10:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel vga_controller
+

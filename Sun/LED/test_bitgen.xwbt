@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\SunKim\Documents\Sun\LED\test.ncd
+OUTFILE=C:\Users\SunKim\Documents\Sun\LED\test.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Users\SunKim\Documents\Sun\LED
+LICENSE=WebPack
+USER_INFO=0_0_078

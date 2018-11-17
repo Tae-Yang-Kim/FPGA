@@ -1,0 +1,123 @@
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 vga2.ngc vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/Soleil/Desktop/FPGA project/Sun/VGA2/vga2.xst" -ofn "C:/Users/Soleil/Desktop/FPGA project/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 "vga2.ngc" vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 
+xst -intstyle ise -ifn "C:/Users/Soleil/Desktop/FPGA project/Sun/VGA2/vga2.xst" -ofn "C:/Users/Soleil/Desktop/FPGA project/Sun/VGA2/vga2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc vga2.ucf -p xc3s500e-fg320-4 "vga2.ngc" vga2.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o vga2_map.ncd vga2.ngd vga2.pcf 
+par -w -intstyle ise -ol high -t 1 vga2_map.ncd vga2.ncd vga2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml vga2.twx vga2.ncd -o vga2.twr vga2.pcf -ucf vga2.ucf 
+bitgen -intstyle ise -f vga2.ut vga2.ncd 

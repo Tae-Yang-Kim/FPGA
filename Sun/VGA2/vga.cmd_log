@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/SunKim/Documents/Sun/VGA2/vga.xst" -ofn "C:/Users/SunKim/Documents/Sun/VGA2/vga.syr" 

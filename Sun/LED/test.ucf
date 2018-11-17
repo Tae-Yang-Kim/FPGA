@@ -1,0 +1,4 @@
+NET "clk" LOC ="U12";
+NET "rst" LOC ="Y11";
+NET "LED(0)" LOC ="E3";
+NET "LED(1)" LOC ="G6";

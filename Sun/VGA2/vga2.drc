@@ -1,0 +1,8 @@
+Release 12.4 Drc M.81d (nt)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+Sun Nov 11 21:11:43 2018
+
+drc -z vga2.ncd vga2.pcf
+
+DRC detected 0 errors and 0 warnings.

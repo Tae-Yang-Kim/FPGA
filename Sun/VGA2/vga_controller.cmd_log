@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/SunKim/Documents/Sun/VGA2/vga_controller.v -lang verilog -prj VGA2 -o vga_controller.spl -module vga_controller -template C:/Xilinx/12.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_controller.spl C:/Users/SunKim/Documents/Sun/VGA2/vga_controller.sym 
